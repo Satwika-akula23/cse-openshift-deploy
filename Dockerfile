@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY target/*.jar cse.jar
 
-EXPOSE 8085
+EXPOSE 8087
 
 CMD ["java", "-jar", "cse.jar"]
