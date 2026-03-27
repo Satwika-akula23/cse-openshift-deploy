@@ -16,4 +16,4 @@ spec:
       - name: springboot-openshift-container
         image: satwika23/cseoc:latest
         ports:
-        - containerPort: 8085
+        - containerPort: 8087
